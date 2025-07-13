@@ -1,2 +1,6 @@
-# R
-#R 
+(R)
+# Data Analysis and Statistics
+# Data Visualization
+# Machine Learning
+# Data Wrangling
+# Reporting and Dashboards
