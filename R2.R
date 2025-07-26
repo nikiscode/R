@@ -1,4 +1,3 @@
-
 #framing
 students <- data.frame(
   name = c("A", "B"),
