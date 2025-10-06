@@ -1,4 +1,3 @@
-
 ##R-Applications#
 # Data Analysis and Statistics
 # Data Visualization
