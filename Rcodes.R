@@ -1,4 +1,4 @@
-  ##Addition, subtraction, multiplication, and division
+   ##Addition, subtraction, multiplication, and division
 a <- 10
 b <- 5
 
