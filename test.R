@@ -1,4 +1,4 @@
-     ##TEST FILES
+ ##TEST FILES
 1.data<-c(5.1,5.8,6.0,5.5,6.2,5.9)
 t.test(data, mu = 5.5)
 
